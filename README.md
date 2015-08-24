@@ -1,3 +1,3 @@
 # mygit
 readme
-wangqi
+wangqi & master
